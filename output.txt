@@ -1,0 +1,63 @@
+KEY NUMBERS
+Total orders                   2,000
+Delivered orders               1,691
+Total revenue           1,038,069.61
+Average order value           613.88
+Unique customers                 483
+Units sold                     4,201
+Return rate (%)                 7.50
+Cancel rate (%)                 7.95
+ 
+MONTHLY REVENUE
+           revenue  growth (%)
+month                         
+2025-01  78,393.48         NaN
+2025-02  71,473.57       -8.83
+2025-03 103,075.70       44.22
+2025-04  85,059.41      -17.48
+2025-05  82,827.23       -2.62
+2025-06  79,703.58       -3.77
+2025-07  94,277.23       18.28
+2025-08  87,312.07       -7.39
+2025-09  83,636.10       -4.21
+2025-10  99,245.36       18.66
+2025-11  66,749.66      -32.74
+2025-12 106,316.21       59.28
+ 
+REVENUE BY CATEGORY
+category
+Home          357,346.56
+Beauty        300,339.41
+Books         164,775.77
+Electronics   145,616.78
+Fashion        69,991.09
+ 
+REVENUE BY REGION
+region
+North   263,017.25
+East    260,154.55
+South   259,795.30
+West    255,102.52
+ 
+TOP 5 PRODUCTS
+product_name
+Product 04   70,143.12
+Product 08   68,965.27
+Product 16   61,336.29
+Product 09   60,603.05
+Product 17   59,062.44
+ 
+TOP 5 CUSTOMERS
+customer_id
+249   8,666.76
+466   7,995.92
+128   6,912.07
+294   6,869.56
+51    6,747.42
+ 
+QUICK SUMMARY
+Best month      : 2025-12
+Weakest month   : 2025-11
+Top category    : Home
+Lowest category : Fashion
+Top region      : North
